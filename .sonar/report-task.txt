@@ -1,0 +1,6 @@
+projectKey=deloittedigital_INT
+serverUrl=https://qasonarqube.deloitteresources.com
+serverVersion=6.7.1.35068
+dashboardUrl=https://qasonarqube.deloitteresources.com/dashboard/index/deloittedigital_INT
+ceTaskId=AWabNOz4CAWK05SWh4_L
+ceTaskUrl=https://qasonarqube.deloitteresources.com/api/ce/task?id=AWabNOz4CAWK05SWh4_L
