@@ -1,0 +1,6 @@
+projectKey=TestJava
+serverUrl=https://stagesonarqube.deloitte.com
+serverVersion=6.7.1.35068
+dashboardUrl=https://stagesonarqube.deloitte.com/dashboard/index/TestJava
+ceTaskId=AWYZj9WS_Z4_q56KH5Nd
+ceTaskUrl=https://stagesonarqube.deloitte.com/api/ce/task?id=AWYZj9WS_Z4_q56KH5Nd
